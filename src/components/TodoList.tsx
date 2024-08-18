@@ -78,7 +78,6 @@ export default function TodoList() {
                   color="success"
                 >
                   {item.name}
-                  {item.completed ? 'Y' : 'N'}
                 </Checkbox>
               </TableCell>
               <TableCell>
