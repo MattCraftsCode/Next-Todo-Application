@@ -12,7 +12,7 @@ type ITodoItem = {
 }
 
 export default function Home() {
-  const title = 'Todo Application'
+  const title = 'Todo Application(Preview)'
   useTitle(title)
 
   return (
