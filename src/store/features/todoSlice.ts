@@ -19,7 +19,7 @@ const initialState: TodoState = {
     {
       id: '9',
       name: '部署到 vercel & 体验 vercel 自动部署的过程',
-      completed: false,
+      completed: true,
     },
     {
       id: '10',
